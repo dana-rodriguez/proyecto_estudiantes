@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "nombre": "Dana",
+    "apellido": "Rodriguez",
+    "email": "dana12@gmail.com",
+    "carnet": "0953303294",
+    "notas": {
+      "Ingles": [
+        19
+      ],
+      "Matematicas": [
+        17
+      ],
+      "Lenguaje": [
+        17
+      ]
+    },
+    "materias": [
+      "Ingles",
+      "Lenguaje",
+      "Matematicas"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Jesennia",
+    "apellido": "Cobos",
+    "email": "jesi123@gmil.com",
+    "carnet": "0990753004",
+    "notas": {
+      "Matematicas": [
+        15
+      ],
+      "Lenguaje": [
+        19
+      ],
+      "Ingles": [
+        15
+      ]
+    },
+    "materias": [
+      "Ingles",
+      "Lenguaje",
+      "Matematicas"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Carmen",
+    "apellido": "Alcivar",
+    "email": "carmen1234@gmail.com",
+    "carnet": "0921145454",
+    "notas": {
+      "Ingles": [
+        4
+      ],
+      "Lenguaje": [
+        13
+      ],
+      "Matematicas": [
+        12
+      ]
+    },
+    "materias": [
+      "Ingles",
+      "Lenguaje",
+      "Matematicas"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Maria",
+    "apellido": "Vera",
+    "email": "mari12345@gmail.com",
+    "carnet": "0998342925",
+    "notas": {
+      "Ingles": [
+        11
+      ],
+      "Matematicas": [
+        11
+      ],
+      "Lenguaje": [
+        11
+      ]
+    },
+    "materias": [
+      "Ingles",
+      "Lenguaje",
+      "Matematicas"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Luis",
+    "apellido": "Andrade",
+    "email": "andy12@gmail.com",
+    "carnet": "0954862111",
+    "notas": {},
+    "materias": []
+  }
+]
